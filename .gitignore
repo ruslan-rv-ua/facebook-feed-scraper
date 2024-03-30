@@ -161,4 +161,6 @@ cython_debug/
 
 
 # package
-*/browser/data/
+**/*/browser/data/
+**/*/browser/.links/
+**/*/browser/firefox-*/
